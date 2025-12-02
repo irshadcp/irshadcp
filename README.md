@@ -50,4 +50,4 @@
 
 ---
 
-### ⭐ If you like my projects, consider giving a star!
+### Got it?
